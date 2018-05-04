@@ -1,5 +1,5 @@
 # Times-Table-ios-App
-An applicationton to learn numbers tables, from 1 to 20, upto 50 multiple. 
+An application to learn numbers tables, from 1 to 20, upto 50 multiple. 
 
 ## screenshot
 <img src="https://raw.githubusercontent.com/SyedKhawarAli/Times-Table-ios-App/master/table%20of%207.png" width="25%" height="25%" title="Table of 7"><img src="https://raw.githubusercontent.com/SyedKhawarAli/Times-Table-ios-App/master/table%20of%2010.png" width="25%" height="25%" title="Table of 10">
