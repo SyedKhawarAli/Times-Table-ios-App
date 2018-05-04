@@ -7,7 +7,7 @@ An application to learn numbers tables, from 1 to 20, upto 50 multiple.
 
 ## Built With
 
-* [Xcode](https://developer.apple.com/xcode/) - used 
+* [Xcode](https://developer.apple.com/xcode/) - IDE used 
 * [Swift](https://swift.org/) - Language used
 
 ## Credits
