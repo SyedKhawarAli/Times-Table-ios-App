@@ -1,4 +1,4 @@
-# Times-Table-ios-App
+# Times Table(ios App)
 An application to learn numbers tables, from 1 to 20, upto 50 multiple. 
 
 ## Screenshot
